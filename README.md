@@ -1,4 +1,10 @@
-# Trademark WG
+# Tradmark_policy
+
+## Scope
+
+## Milestone dates
+
+## Trademark Working Group overview
 
 Chair - Chris Adams (Green Web Foundation)
 
@@ -6,5 +12,7 @@ Chair - Chris Adams (Green Web Foundation)
 
 [Meeting schedule](https://lists.greensoftware.io/g/trademark/calendar)
 Meeting Link -  ID - 978 1367 2712
+
+[Groups.io Homepage](https://lists.greensoftware.io/g/trademark)
 
 Helpdesk - helpdesk@greensoftware.io 
