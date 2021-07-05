@@ -129,7 +129,7 @@ Add text here
 ```
 
 <figure>
-	<img src="Images/governance.svg" alt="GSF governance">
+	<img src="images/governance.svg" alt="GSF governance">
 	<figcaption>GSF governance</figcaption> 
 </figure>	
 
