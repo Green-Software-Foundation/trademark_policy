@@ -1,4 +1,4 @@
-# Tradmark_policy
+# Trademark_policy
 
 ## Scope
 
