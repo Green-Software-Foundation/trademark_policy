@@ -1,37 +1,37 @@
 ## Scope
 
-```
-Define as it relates to Green Software Foundation Activity. If it adds clarity, define what is not in the scope. DELETE THIS COMMENT 
-```
+This whitepaper covers why we have a trademark, and why we publish guidance on acceptable use of the Green Software Foundation name and logo.
+
+We have a trademark, to help identify projects as either:
+
+- Projects carried out by the Green Software Foundation.
+- Activity that is endorsed by the Green Software Foundation.
+
+In addition, we publish guidance on acceptable use of the logo and name. We do this to maintain the quality of the brand, and we require use of the logo and name to adhere to these guidelines.
+
+This specific guidance is outside the scope of this paper.
 
 ## References
 
-```
-The policy for reference lists is:
-1. GSF documents listed should have at least one approved version – draft-only docs should not be referenced.
-An exception exists for documents approved with or after the referenced doc is approved (maybe part of the same enabler package). In short – approved docs should not reference unapproved docs.
-2. References to other affiliate docs should similarly provide sufficient information to uniquely determine the needed document and should provide the appropriate source information.
-3. The URL for GSF material (new GSF and affiliate) should always be http://www.greensoftware.foundation
-    
-Models to use:
-	[REFLABEL]	<General Model> "Ref Title", Ref information (source, date, id), URL:http//<ref-source>/ 
-	[GSFDOC]	<GSF Model> "GSF Document Title",{ Version x.y,} Green Software Foundation™, GSF <docname>{    <version>}, URL:http//www.openmobilealliance.org/ 
-
-If there are no entries in the table – enter 'none' to be clear.
-
-DELETE THIS COMMENT
-```
 <table>
   <tbody>
     <tr>
       <td><strong>GSFDICT</strong></td>
-      <td>“Dictionary for GST Specifications”, Version x.y, Green Software Foundation, GSF-Dictionary-Vx_y, URL:http://www.greensoftware.foundation</tr>
+      <td>“Dictionary for GST Specifications”, Version x.y, Green Software Foundation, GSF-Dictionary-Vx_y, URL:http://www.greensoftware.foundation</td></tr>
+      <td><strong>Python Trademark Dispute</strong></td>
+      <td>"Python trademark at risk in Europe: We need your help!", URL:https://pyfound.blogspot.com/2013/02/python-trademark-at-risk-in-europe-we.html</td></tr>
+      <td><strong>Mozilla Trademark</strong></td>
+      <td>"The Mozilla Foundation Mozilla Trademark Guidelines", URL:https://www.mozilla.org/en-US/foundation/trademarks/policy/</td></tr>
+      <td><strong>Django Trademark</strong></td>
+      <td>"Django Trademark License Agreement", URL:https://www.djangoproject.com/trademarks/</td></tr>
+      <td><strong>Opensearch Trademark</strong></td>
+      <td>"Trademark Policy", URL:https://opensearch.org/trademark-usage.html</td></tr>
+      <td><strong>Wordpress Trademark</strong></td>
+      <td>"Trademark Policy", URL:https://wordpressfoundation.org/trademark-policy/</td></tr>
+
   </tbody>
 </table>
 
-```
-Add/Remove reference rows as needed - DELETE This Row 
-```
 
 ## Terminology and Conventions
 ### Conventions
@@ -40,48 +40,11 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 
 All sections and appendixes, except "Scope" and "Introduction", are normative unless they are explicitly indicated to be informative.
 
-```
-If needed, describe or declare using appropriate normative references the additional conventions that are used. DELETE THIS COMMENT
-```
-
 ### Definitions
-
-```
-Add definitions in new rows of the following table as needed. The following examples show how dictionary references should be made as well as locally defined terms. This table should be maintained in sorted alphabetic order based on the labels of the terms.
-
-Examples:
-	Entity              Use definition #1 from [GSFDICT]
-	Interactive Service Use definition from [GSFDICT]
-	Local Term          The definition description would be presented directly
-
-DELETE THIS COMMENT
-```
-<table>
-  <caption>Definitions</caption>
-  <tbody>
-    <tr>
-	<td><strong>Definition-1</strong></td>
-	<td>Description definition-1</td>
-    </tr>
-    <tr>
-	<td><strong>Definition-2</strong></td>
-	<td>Description definition-2</td>
-    </tr>
-  </tbody>
-</table>
-
-```
-Add/Remove definition rows as needed - DELETE This Row
-```
 
 Kindly consult [GSFDICT] for more definitions used in this document.
 
 ### Abbreviations
-
-```
-Add abbreviations as needed. No special notation should be made regarding terms copied from the Dictionary.  
-The list should be maintained in alphabetic order. DELETE This Row
-```
 
 <table>
 <caption>Definitions</caption>
@@ -95,67 +58,17 @@ The list should be maintained in alphabetic order. DELETE This Row
 
 ## Introduction
 
-```
-Provide information to help readers understand why this document is being produced.  For example, this section could be used to:
+It is important to be able to tell when work is either endorsed by, or coming from the GSF. One way to do this is to exercise the use of a trademark to prevent other work being 'passed off' as being endorsed, or coming the GSF when it in fact it does not.
 
-* Provide some background to the issue being covered
-* Describe nature of the environment that requires a paper be presented
-* Justify why OMA has a role to present information on the issue
+For this to be possible, it is necessary to clearly define acceptable use of the GSF name and branding assets. There also needs to be a process for policing use that does not meet this criteria, and for the GSF to be seen to be actively protecting it.
 
-DELETE THIS COMMENT
-```
+If this is not defined, it is more difficult to claim a trademark is being protected.  We can point to numerous examples in the open source community, like the [Python Trademark Dispute] of 2013, where this has happened previously.
 
-## Sections As Needed
+As a result it is common practice among software foundations to protect the use of, and examples include the [Django Trademark], the [Open Search Trademark], and the [Mozilla Trademark] and the [Wordpress Trademark].
 
-```
-Sections for the descriptive informative text.  Fill in as needed.  The following validates the styles used for the headers.
+## The GSF and Trademark
 
-DELETE THIS COMMENT
-```
-
-### Example Level 2
-```
-Add text here
-```
-
-#### Example Level 3
-```
-Add text here
-```
-
-#### Example Levle 4
-```
-Add text here
-```
-
-<figure>
-	<img src="images/governance.svg" alt="GSF governance">
-	<figcaption>GSF governance</figcaption> 
-</figure>	
-
-
-<table>
-  <caption>Example Table</caption>
-  <thead>
-      <tr>
-	  <th>Item</th>
-	  <th>Function</th>
-	  <th>Reference</th>
-      </tr>	      
-  </thead>	    
-  <tbody>
-    <tr>
-	<td>Row 1</td>
-	<td>Grid 1,1 data</td>
-	<td>Grid 1,2 data</td>	    
-    </tr>
-    <tr>
-	<td>Row 2</td>
-	<td>Grid 2,1 data</td>
-	<td>Grid 2,2 data</td>	    
-    </tr>
-  </tbody>
-</table>
+The Green Software Foundation and logo are trademarked. Use of either MUST comply with the published guidelines around acceptable use, or express written permission MUST have been provided by the GSF for any use outside these guidelines
 
 ## Appendix Change History (Informative)
 
