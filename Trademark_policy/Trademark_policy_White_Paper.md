@@ -13,24 +13,14 @@ This specific guidance is outside the scope of this paper.
 
 ## References
 
-<table>
-  <tbody>
-    <tr>
-      <td><strong>GSFDICT</strong></td>
-      <td>“Dictionary for GST Specifications”, Version x.y, Green Software Foundation, GSF-Dictionary-Vx_y, URL:http://www.greensoftware.foundation</td></tr>
-      <td><strong>Python Trademark Dispute</strong></td>
-      <td>"Python trademark at risk in Europe: We need your help!", URL:https://pyfound.blogspot.com/2013/02/python-trademark-at-risk-in-europe-we.html</td></tr>
-      <td><strong>Mozilla Trademark</strong></td>
-      <td>"The Mozilla Foundation Mozilla Trademark Guidelines", URL:https://www.mozilla.org/en-US/foundation/trademarks/policy/</td></tr>
-      <td><strong>Django Trademark</strong></td>
-      <td>"Django Trademark License Agreement", URL:https://www.djangoproject.com/trademarks/</td></tr>
-      <td><strong>Opensearch Trademark</strong></td>
-      <td>"Trademark Policy", URL:https://opensearch.org/trademark-usage.html</td></tr>
-      <td><strong>Wordpress Trademark</strong></td>
-      <td>"Trademark Policy", URL:https://wordpressfoundation.org/trademark-policy/</td></tr>
-
-  </tbody>
-</table>
+| Item        | Link          |
+| ------------- |-------------|
+| GSFDICT      | “Dictionary for GST Specifications”, Version x.y, Green Software Foundation, GSF-Dictionary-Vx_y, URL: http://www.greensoftware.foundation |
+| Python Trademark Dispute     | "Python trademark at risk in Europe: We need your help!", URL: https://pyfound.blogspot.com/2013/02/python-trademark-at-risk-in-europe-we.html    |  
+| Mozilla Trademark |"The Mozilla Foundation Mozilla Trademark Guidelines", URL: https://www.mozilla.org/en-US/foundation/trademarks/policy/   |
+|Django Trademark|"Django Trademark License Agreement", URL: https://www.djangoproject.com/trademarks/|
+|Opensearch Trademark|"Trademark Policy", URL: https://opensearch.org/trademark-usage.html|
+|Wordpress Trademark|"Trademark Policy", URL: https://wordpressfoundation.org/trademark-policy/|
 
 
 ## Terminology and Conventions
@@ -46,15 +36,11 @@ Kindly consult [GSFDICT] for more definitions used in this document.
 
 ### Abbreviations
 
-<table>
-<caption>Definitions</caption>
-<tbody>
-  <tr>
-    <td>GSF</td>
-    <td>Green Software Foundation</td>
-  </tr>
-</tbody>
-</table>
+Defintions
+
+|Term|Definition|
+|---|---|
+|GSF| Green Software Foundation|
 
 ## Introduction
 
@@ -74,20 +60,8 @@ The Green Software Foundation and logo are trademarked. Use of either MUST compl
 
 ### Approved Version x.y History
 
-<table>
-    <caption>Approved Version x.y History</caption>
-    <thead>
-        <tr>
-            <th>Reference</th>
-            <th>Date</th>
-            <th>Description</th>
-        </tr>
-    </thead>
-    <tbody>    
-        <tr>
-            <td>n/a</td>
-            <td>n/a</td>
-            <td>No prior version</td>
-        </tr>
-    </tbody>
-</table>
+Approved Version x.y History
+
+|Reference|Date|Description|
+|---|---|---|
+|n/a|n/a|No prior version|
