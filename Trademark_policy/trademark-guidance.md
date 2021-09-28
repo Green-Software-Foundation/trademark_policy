@@ -9,7 +9,7 @@ The Green Software Foundation exists to push for the reduction of carbon emissio
 
 These emissions might be from the generation of electricity used to power data centres and user devices or from the manufacturing of the hardware the software runs on.
 
-The Green Software Foundation aims to do this by uncovering, sharing, and promoting best practices for developing and operating green, climate-friendly software.
+The Green Software Foundation aims to do this by uncovering, sharing, and promoting best practices for developing and operating green, climate-friendly applications and services.
 
 We want to make it easy to use the trademark, and be confident you’re using as it’s intended to be used.
 
