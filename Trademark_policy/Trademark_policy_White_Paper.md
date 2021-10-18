@@ -56,12 +56,3 @@ As a result it is common practice among software foundations to protect the use 
 
 The Green Software Foundation and logo are trademarked. Use of either MUST comply with the published guidelines around acceptable use, or express written permission MUST have been provided by the GSF for any use outside these guidelines
 
-## Appendix Change History (Informative)
-
-### Approved Version x.y History
-
-Approved Version x.y History
-
-| Reference | Date | Description      |
-| --------- | ---- | ---------------- |
-| n/a       | n/a  | No prior version |
